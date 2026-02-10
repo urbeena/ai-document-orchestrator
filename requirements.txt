@@ -1,1 +1,7 @@
-vdjh
+streamlit
+python-dotenv
+google-generativeai
+requests
+PyPDF2
+dotenv
+openai
